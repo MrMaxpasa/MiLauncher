@@ -1,0 +1,24 @@
+# Gradle / build
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local machine settings (contains your SDK path / Windows user name)
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Signing keys — never commit these
+*.jks
+*.keystore
+keystore.properties
+
+# Built packages
+*.apk
+*.aab
